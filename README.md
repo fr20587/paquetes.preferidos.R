@@ -35,12 +35,13 @@ Este repositorio tiene la intención de guardar todos aquellos paquetes de R que
 * HMS
 * lubridate
 
-## Graficos
+## Visualización
 * heatmaply
 * d3heatmap
 * plotly
 * ggforce
 * ggrepel
+* [gganimate](https://gganimate.com/index.html): gganimate es una paquete que permite realizar animaciones de gráficos realizados con ggplot utilizando la misma gramática.
 
 ## Guardar y Leer Datos
 * feather
