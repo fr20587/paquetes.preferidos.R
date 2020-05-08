@@ -36,17 +36,19 @@ Este repositorio tiene la intención de guardar todos aquellos paquetes de R que
 * lubridate
 
 ## Visualización
-* heatmaply
 * d3heatmap
-* plotly
 * ggforce
 * ggrepel
-* [gganimate](https://gganimate.com/index.html): gganimate es una paquete que permite realizar animaciones de gráficos realizados con ggplot utilizando la misma gramática.
+* [gganimate](https://gganimate.com/index.html): es una paquete que permite realizar animaciones de gráficos realizados con ggplot utilizando la misma gramática.
+* [ggdark] (https://github.com/nsgrantham/ggdark): aplica sobre el tema en uso un modo oscuro cambiado los valores prederterminados para que la información sea legible.
+* [gifski](https://github.com/r-rust/gifski): convierte marcos de imágenes en animaciones GIF de alta calidad.
+* heatmaply
+* plotly
 
 ## Guardar y Leer Datos
+* Cairo
 * feather
 * magick
-* Cairo
 
 ## Machine Learning
 * Caret
