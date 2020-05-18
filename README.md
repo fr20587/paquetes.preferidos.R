@@ -40,7 +40,7 @@ Este repositorio tiene la intención de guardar todos aquellos paquetes de R que
 * [gganimate](https://gganimate.com/index.html): es una paquete que permite realizar animaciones de gráficos realizados con ggplot utilizando la misma gramática.
 * [ggdark](https://github.com/nsgrantham/ggdark): aplica sobre el tema en uso un modo oscuro cambiando los valores predeterminados para que la información sea legible.
 * ggforce
-* [ggimage](https://guangchuangyu.github.io/pkgdocs/ggimage.html#geom_image) Admite mapeo estético de archivos de imagen para visualizar en el sistema gráfico 'ggplot2'.
+* [ggimage](https://guangchuangyu.github.io/pkgdocs/ggimage.html#geom_image): Admite mapeo estético de archivos de imagen para visualizar en el sistema gráfico 'ggplot2'.
 * ggrepel
 * [gifski](https://github.com/r-rust/gifski): convierte marcos de imágenes en animaciones GIF de alta calidad.
 * heatmaply
@@ -73,4 +73,5 @@ Este repositorio tiene la intención de guardar todos aquellos paquetes de R que
 
 ## Tools
 * devtools
+* [taskscheduleR](https://github.com/bnosac/taskscheduleR): este paquete permite a los usuarios de R que trabajan en Windows automatizar el proceso de ejecución de R scripts en puntos de tiempo específicos desde el propio R, con una frecuencia: 'UNA VEZ', 'MENSUAL', 'SEMANAL','DIARIO','HORARIO','MINUTO','ONLOGON','ONIDL'.
 
